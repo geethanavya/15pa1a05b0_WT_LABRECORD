@@ -1,0 +1,26 @@
+
+<?xml version="1.0"?>
+<!DOCTYPE Cloth [
+<!ELEMENT Cloth (Name,Description,Type,(Details+),Price,Manufacturer)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>
+<!ELEMENT Details (Size,Material,Color)>
+<!ELEMENT Size (#PCDATA)>
+<!ELEMENT Material (#PCDATA)>
+<!ELEMENT Color (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Manufacturer (#PCDATA)>
+]>
+<Cloth>
+     <Name>Ram</Name>
+     <Description>Gold color fabric with light green shade.</Description>
+     <Type>Saree</Type>
+     <Details>
+            <Size>Medium</Size>
+            <Material>Shiffon</Material>
+            <Color>Red</Color>
+     </Details>
+     <Price>1500.00</Price>
+     <Manufacturer>Seetha Products</Manufacturer>
+</Cloth>

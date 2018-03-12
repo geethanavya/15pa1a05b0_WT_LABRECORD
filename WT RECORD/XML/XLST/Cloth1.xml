@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Cloth>
+<id>
+     <Name>Rasi</Name>
+     <Description>Gold color fabric with light green shade.</Description>
+     <Type>Saree</Type>
+     <Details>
+            <Size>Medium</Size>
+            <Material>Shiffon</Material>
+            <Color>Red</Color>
+     </Details>
+     <Price>1500.00</Price>
+     <Manufacturer>Seetha Products</Manufacturer>
+</id>
+
+<id>
+     <Name>Rani</Name>
+     <Description>Black color with light white chips.</Description>
+     <Type>Top</Type>
+     <Details>
+           Large,Silk,Black
+     </Details>
+     <Price>700.00</Price>
+     <Manufacturer>Seetha Products</Manufacturer>
+</id>
+<id>
+     <Name>Raji</Name>
+     <Description>Plain Red with black strips.</Description>
+     <Type>Chudidhar</Type>
+     <Details>
+           Medium,Georgette,Red
+     </Details>
+     <Price>1700.00</Price>
+     <Manufacturer>Seetha Products</Manufacturer>
+</id>
+</Cloth>
+
+

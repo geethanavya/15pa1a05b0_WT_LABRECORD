@@ -1,0 +1,13 @@
+
+<Cloth>
+     <Name>Ram</Name>
+     <Description>Gold color fabric with light green shade.</Description>
+     <Type>Saree</Type>
+     <Details>
+            <Size>Medium</Size>
+            <Material>Shiffon</Material>
+            <Color>Red</Color>
+     </Details>
+     <Price>1500.00</Price>
+     <Manufacturer>Seetha Products</Manufacturer>
+</Cloth>
